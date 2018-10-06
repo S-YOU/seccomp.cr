@@ -1,0 +1,9 @@
+name: seccomp
+version: 0.0.1
+
+authors:
+    - S-YOU
+
+crystal: 0.25.1
+
+license: MIT
